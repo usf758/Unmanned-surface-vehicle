@@ -1,0 +1,26 @@
+Home Location:
+home_lat = 30.029975
+home_long = 31.218839
+home_ASL = -0.1
+
+#KSFO = 37.6193729,-122.3766368,5.39
+#6oct = 29.8142662829897,30.8256036043167,233.128135909344
+
+Bearing = 10
+#6oct=190  
+#KSFO=120
+
+Altitude = 80
+
+Files:
+waypoints_file = "Waypoints1"
+obstacles_file = "Obstacles"
+payloads_file = "Payloads"
+
+Aircraft's_Velocity = 25
+Aircraft's_Altitude = 80
+Wind_Speed = 0
+Wind_Bearing = 190
+
+Take_off_angle = 30
+Take_off_alt = 45
